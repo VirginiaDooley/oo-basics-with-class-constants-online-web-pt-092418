@@ -12,6 +12,7 @@ class Shoe
         BRANDS << brand
       else
         nil
+      end 
     end 
   end
 
